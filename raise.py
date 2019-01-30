@@ -26,3 +26,4 @@ except ZeroDivisionError:
     print("被零除！！！")
 
 print("程序正常结束")
+print("end test")
