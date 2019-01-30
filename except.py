@@ -19,3 +19,5 @@ try:
 except ValueError as err:
     print('err=', err)
 
+print("test 1")
+
