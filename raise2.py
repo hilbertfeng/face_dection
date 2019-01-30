@@ -22,4 +22,5 @@ try:
 except ValueError as err:
     print("f2内发生了ValueError类型错误")
     print("err=", err)
-
+print("test raise2")
+>>>>>> Jame_dev

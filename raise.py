@@ -28,3 +28,4 @@ except ZeroDivisionError:
 print("程序正常结束")
 print("end test")
 print("end test2")
+print("github test")
